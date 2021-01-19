@@ -8,33 +8,33 @@ s - Source
 ### Development
 - Postman
     - For sending HTTP requests
-    -(s) Official Website
+    - (s) Official Website
 
 ### Video Recording/Editing
 - OBS
     - Screen Recorder
-    -(s) Official Website
+    - (s) Official Website
 
 - Screen to gif
     - gif recorder on PC
-    -(s) Official Website
+    - (s) Official Website
 
 - Irium Webcam
     - For using mobile as webcam to the PC over wifi or USB
     - APP/Windows app available
-    -(s) Official Website
+    - (s) Official Website
 - Adobe premiere pro
     - (S) Youtube Video
 
 ### Laptop Hardware Drivers
 
 - Hydra Mouse Software
-    -(s) Official Website
+    - (s) Official Website
 
 ### Downloader
 
 - Youtube
-    -(s) Github
+    - (s) Github
 - Udeler
     - Udemy course downloader
     - (s) Official Website
@@ -46,13 +46,13 @@ s - Source
 ### Productivity
 - Powertoys
     - For windows, Show markdown,SVG images, remap keys
-    -(s) Github
+    - (s) Github
 - Everything
     - Search files and folders in PC
-    -(s) Official Website
+    - (s) Official Website
 - Notion
     - Note taking application
-    -(s) Official Website
+    - (s) Official Website
 
 ### Professional
 
