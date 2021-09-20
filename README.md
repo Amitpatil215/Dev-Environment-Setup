@@ -42,6 +42,9 @@ s - Source
     - PC and Smartphone available
     - VPN compatible with JIIT Wifi
 
+### Windows
+- [QTTabBar](http://qttabbar.wikidot.com/)
+    - natively add tabs to the windows file explorer
 
 ### Productivity
 - Powertoys
